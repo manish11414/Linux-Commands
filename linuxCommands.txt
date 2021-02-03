@@ -1,0 +1,15 @@
+						Some basics and useful command of Linux/Ubuntu
+						
+1. pwd  : The pwd command stands for (print working directory). It displays the current working directory or location.
+
+2. ls      : This command is use to show all the list of the directory(folder) and files of a directory.
+
+3. ls -lart : This commnd will show the hidden files.
+
+3. cd		: This cd command stands for (change directory). It is use to change the directory from present directory to willing directory.
+
+4. mkdir : mkdir command is responsible to create your own directory.
+
+5. rmdir  : rmdir command is responsible to remove a directory from your system.   
+
+
